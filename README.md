@@ -23,16 +23,16 @@ Projeto de estudo onde criei uma máquina virtual Linux usando VirtualBox para a
 ## 📸 Capturas de Tela
 
 ### Configuração da máquina virtual
-![Configuração](screenshots/criacao_linux.png)
+![Configuração](img/criacao-linux.png)
 
 ### Configuração em geral
-![Configuração](screenshots/config_linux.png)
+![Configuração](img/config-linux.png)
 
 ### Instalação do Linux
-![Instalação](screenshots/install_linux.png)
+![Instalação](img/install-linux.png)
 
 ### Sistema funcionando
-![Linux rodando](screenshots/running_linux.png)
+![Linux rodando](img/running-linux.png)
 
 ---
 
